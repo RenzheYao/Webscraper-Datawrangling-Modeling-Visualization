@@ -29,4 +29,6 @@ Usage (from the folder that contains the scripts):
 In Folder Database
 run: tea_price_list.py -> combine "combined_output_clean_DDMMYYYY.csv" to "tea_price_list_DDMMYYYY.csv"
 "tea_price_list_DDMMYYYY.csv" has column of date when the infos were extracted. It allows to monitor the price change and analyse the trend.
+
+Final output: tea_price_list_DDMMYYYY.csv in Database folder: prepared for data modeling and data visualisation
  
