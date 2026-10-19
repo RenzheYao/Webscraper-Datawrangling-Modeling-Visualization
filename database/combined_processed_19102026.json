@@ -1,0 +1,3593 @@
+[
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Sencha Ariake bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€19,80",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé noir N°25 bio",
+    "tea_type": "Black tea",
+    "weight": "110 g",
+    "price": "€16,00",
+    "country_of_origin": "India, China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Matcha Vanille bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€35,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Grand Jasmin Chun Feng",
+    "tea_type": "Jasmine tea",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé du Louvre - Côté Cour",
+    "tea_type": "Black tea",
+    "weight": "110 g",
+    "price": "€17,40",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Genmaicha Yama bio",
+    "tea_type": "Green tea",
+    "weight": "130 g",
+    "price": "€17,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Moines",
+    "tea_type": null,
+    "weight": "100 g",
+    "price": "€15,00",
+    "country_of_origin": "India, China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "La Menthe Glaciale bio",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€16,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Darjeeling Mist Bari bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,00",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Matcha Châtaigne bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€35,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Alizés",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€14,70",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Montagne Bleue",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": "India, Africa"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Le Thé Merveilleux",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Blue of London",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€15,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Voyages bio",
+    "tea_type": "Green tea",
+    "weight": "120 g",
+    "price": "€17,50",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé du Hammam",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Céleste bio",
+    "tea_type": "Green tea",
+    "weight": "110 g",
+    "price": "€17,50",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Long Jing",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€20,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Pu Erh Impérial",
+    "tea_type": "Pu-erh tea",
+    "weight": "100 g",
+    "price": "€17,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Sables",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Paris for you by day bio",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€15,60",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Big Ben bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,50",
+    "country_of_origin": "China, India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Chaï Impérial bio",
+    "tea_type": "Chai",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": "China, India, Africa"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Fleur de Geisha",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Goût Russe 7 Agrumes bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,40",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé du Louvre - Côté Cour",
+    "tea_type": "Black tea",
+    "weight": "110 g",
+    "price": null,
+    "country_of_origin": "Sri Lanka, India, China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé vert N°25 bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé du Louvre - Côté Jardin",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": null,
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Lords",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Songes",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€14,40",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Le Citron",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": null,
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Amants Vert",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": null,
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Détox Indienne bio",
+    "tea_type": "Black tea",
+    "weight": "120 g",
+    "price": "€17,40",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Le Temps Retrouvé bio",
+    "tea_type": null,
+    "weight": "90 g",
+    "price": "€16,00",
+    "country_of_origin": "China, Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Détox Japonaise bio",
+    "tea_type": "Green tea",
+    "weight": "120 g",
+    "price": "€17,40",
+    "country_of_origin": "Japan, China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Vahinés - Thé Vert",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Sources",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€14,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Vive Les Fêtes",
+    "tea_type": null,
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Matcha Ichi bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€25,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Gourmets",
+    "tea_type": "Black tea",
+    "weight": "110 g",
+    "price": null,
+    "country_of_origin": "China, Sri Lanka, India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Paris for you by night bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": null,
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Matcha Rose bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€35,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Étoiles",
+    "tea_type": "Green tea",
+    "weight": "120 g",
+    "price": null,
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Matcha Menthe bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€35,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Amants bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,40",
+    "country_of_origin": "India, Africa"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Vive le thé ! bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Lords",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": null,
+    "country_of_origin": "India, Africa"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Green of London bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€15,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé du Louvre - Côté Jardin",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€17,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Grand Yunnan Impérial bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Détox Brésilienne bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€17,40",
+    "country_of_origin": "China, Brazil"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé des Étoiles",
+    "tea_type": "Green tea",
+    "weight": "120 g",
+    "price": "€15,40",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "palais des thes",
+    "name": "Thé Matcha Kokoro bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€36,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Breakfast, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Week-end à Paris, Boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€25,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Earl grey des seigneurs, boîte 75g",
+    "tea_type": "Earl Grey",
+    "weight": "75 g",
+    "price": "€22,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Thé du Japon - Matcha Minami Yamashiro Supreme – boîte 20g",
+    "tea_type": "Matcha",
+    "weight": "20 g",
+    "price": "€56,50",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Jasmin Chung Hao, boîte 100g",
+    "tea_type": "Jasmine tea",
+    "weight": "100 g",
+    "price": "€20,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Christmas Tea - boîte 100 g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Joli cœur, Boîte 65G",
+    "tea_type": "Black tea",
+    "weight": "65 g",
+    "price": "€20,40",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Tisane du Roy, Boîte 60g",
+    "tea_type": "Herbal tea",
+    "weight": "60 g",
+    "price": "€20,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Altitude, Boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€22,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Passion de Fleurs, boîte 60g",
+    "tea_type": "Black tea",
+    "weight": "60 g",
+    "price": "€18,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Thé des Mille Collines (Chaï), boîte 150g",
+    "tea_type": "Chai",
+    "weight": "150 g",
+    "price": "€19,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Tisane des merveilles, boîte 45g",
+    "tea_type": "Herbal tea",
+    "weight": "45 g",
+    "price": "€15,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Thé du Japon - Matcha Minami Yamashiro - boîte 20g",
+    "tea_type": "Matcha",
+    "weight": "20 g",
+    "price": "€41,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "4 Fruits Rouges, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€13,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Ceylan O.P., boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,70",
+    "country_of_origin": "Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Carcadet Passion Framboise, boîte 100g",
+    "tea_type": "Fruit tea",
+    "weight": "100 g",
+    "price": "€15,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Sencha Fukuyu, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "infusion happy dreams, boîte 70g",
+    "tea_type": null,
+    "weight": "70 g",
+    "price": "€18,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Assam G.F.O.P., boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,20",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Thé du Japon - UJI Matcha - boîte 20g",
+    "tea_type": "Matcha",
+    "weight": "20 g",
+    "price": "€23,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Thé vert à la menthe aromatisé, boîte 100g",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Darjeeling G.F.O.P. boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€17,80",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Carcadet cassis menthe, boîte 100g",
+    "tea_type": "Herbal tea",
+    "weight": "100 g",
+    "price": "€15,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Rooibos de Noël - boîte 100 g",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Noël en Laponie - boîte 100 g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Grand goût Russe, Boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€19,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Earl Grey Yin Zhen, boîte 100g",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€16,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Rooibos carrot cake, Boîte 100g",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€15,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "L'Ôriental, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Maté clémentine, boîte de 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Rooibos Oriental, boite de 100g",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€15,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Paul & Virginie, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Smokey Lapsang, boîte de 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Tour Eiffel, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€19,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Miss Dammann, boîte de 100g",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€17,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Jardin Bleu, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Pomme d'Amour, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Noël à Paris - boîte 100 g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "Goût Russe Douchka, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Dammann Frères",
+    "name": "7 Parfums, boîte 100g",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€13,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Calendrier de l'Avent Thés et infusions ❘ 24 surprises ❘ Bio",
+    "tea_type": null,
+    "weight": "16 g",
+    "price": "€38,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Rituel Energie Thé vert énergisant ❘ maté ❘ céréales ❘ caféine ❘ bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Rituel Sommeil Tisane pour dormir ❘ Rooibos ❘ Mélisse ❘ Bio",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€24,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Rituel Drainant Tisane detox ❘ Hibiscus ❘ Fruits ❘ Pissenlit ❘ Bio",
+    "tea_type": "Herbal tea",
+    "weight": "100 g",
+    "price": "€24,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Rituel Minceur Thé pour maigrir ❘ Maté ❘ Fruits rouges ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Rituel Défenses Immunitaires Thé vert maté ❘ Enrichi en vitamine C ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Rituel Mémoire Thé vert ginseng ❘ Bergamote ❘ Maté ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Coffret Rituel Assortiment de thés et infusion enrichis",
+    "tea_type": null,
+    "weight": null,
+    "price": "€23,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Thé vert à la menthe bio à l'arôme naturel de rose Kusmi Tea x Limistic",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Le Praliné Thé noir Chocolat-Noisette ❘ Sarrasin ❘ Hojicha",
+    "tea_type": "Black tea",
+    "weight": "95 g",
+    "price": "€23,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Carte cadeau EUR",
+    "tea_type": null,
+    "weight": null,
+    "price": "€30,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Spécialité de thé Le Dessert A tartiner",
+    "tea_type": null,
+    "weight": "250 g",
+    "price": "€8,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "BB Detox Thé vert Maté ❘ Pamplemousse ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Thé vert à la menthe Thé vert à la menthe ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Anastasia Thé noir earl grey ❘ Fleur d'oranger ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Tropical White Thé blanc mangue ❘ Passion ❘ Bio",
+    "tea_type": "White tea",
+    "weight": "90 g",
+    "price": "€19,90",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert gingembre-citron Thé vert gingembre ❘ Citron ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Prince Vladimir Thé noir earl grey ❘ Agrumes ❘ Vanille ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€7,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Jasmin Thé vert jasmin ❘ Bio",
+    "tea_type": "Jasmine tea",
+    "weight": "90 g",
+    "price": "€15,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "St-Pétersbourg Thé noir earl grey ❘ Fruits ❘ Caramel ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Detox Thé vert maté ❘ Citron ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Earl Grey Thé noir earl grey ❘ Bergamote ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€15,50",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert rose Thé vert à la rose ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Earl Grey Intense Thé noir earl grey ❘ Bergamote ❘ Citron ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Thé vert menthe concombre Thé vert menthe ❘ Concombre ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Boost Thé vert maté ❘ Gingembre ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Kashmir Tchaï Thé noir aux épices ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": "China, Nepal, India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "English Breakfast Thé noirs Ceylan ❘ Assam ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Quatre Fruits Rouges Thé noir fruits rouges ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€6,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "White Bellini Thé blanc pêche ❘ Abricot ❘ Bio",
+    "tea_type": "White tea",
+    "weight": "90 g",
+    "price": "€19,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Sweet Love Thé noir épices ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Label Imperial Thé vert épices ❘ Cannelle ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": "Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "White Berries Thé blanc fraise ❘ Mûre ❘ Cassis ❘ Bio",
+    "tea_type": "White tea",
+    "weight": "90 g",
+    "price": "€19,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "White Anastasia Thé blanc bergamote ❘ Fleur d'oranger ❘ Bio",
+    "tea_type": "White tea",
+    "weight": "90 g",
+    "price": "€19,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Blue Detox Thé vert maté ❘ Ananas",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Amande Thé vert amande ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Lovely Morning Thé vert maté ❘ Agrumes ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Thé du matin N°24 Thés noirs bio ❘ Ceylan ❘ Assam ❘ Yunnan",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€15,50",
+    "country_of_origin": "Sri Lanka, China, India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Tsarevna Thé de Noël ❘ Thé noir aux épices ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Tchaï of the Tiger Thé noir épices ❘ Inde ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Thé vert de Chine Thé vert nature ❘ Chine ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Bouquet de Fleurs N°108 Thé noir ❘ Earl grey ❘ Fleur ❘ Ylang-Ylang ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Le Thé Blanc Alain Ducasse Thé blanc rose ❘ Framboise ❘ Bio",
+    "tea_type": "White tea",
+    "weight": "120 g",
+    "price": "€26,40",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Petit déjeuner à l'Élysée Thé vert maté ❘ Citron ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Maté Yerba Maté ❘ Nature ❘ Bio",
+    "tea_type": null,
+    "weight": "100 g",
+    "price": "€7,20",
+    "country_of_origin": "Brazil"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Darjeeling N°37 Thé noir Darjeeling ❘ Inde ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,20",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Ceylan OP Thé noir Ceylan ❘ Sri Lanka ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€14,00",
+    "country_of_origin": "Sri Lanka, India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "L'Earl Grey à la française Thé noir bergamote ❘ Fleurs d'oranger ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Lapsang Souchong Thé noir fumé ❘ Chine ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "90 g",
+    "price": "€15,50",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert St-Pétersbourg Thé vert bergamote ❘ Fruits rouges",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Earl Grey goût polonais N°18 Thé noir earl grey ❘ Bergamote ❘ Citron ❘ Bio",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€15,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Grand Yunnan N°21 Thé noir nature ❘ Chine ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€12,70",
+    "country_of_origin": "Vietnam, China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Genmaicha Thé vert Genmaicha ❘ Riz grillé ❘ Japon",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€14,10",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "French Cancan Bio Thé noir ❘ Fruits rouges ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€16,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Troïka Thé vert bergamote ❘ Citron ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€13,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Troïka Thé noir earl grey ❘ Orange ❘ Mandarine",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€13,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Gunpowder Thé vert Gunpowder ❘ Chine ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€13,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Assam Thé noir Corsé ❘ Inde ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€13,30",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Bouquet Thé vert bergamote ❘ Fleurs ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Perles de Jade au Jasmin Thé vert au Jasmin ❘ Chine ❘ Bio",
+    "tea_type": "Jasmine tea",
+    "weight": "100 g",
+    "price": "€44,50",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Darjeeling Thé vert Darjeeling ❘ Inde ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,80",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Hojicha, Kyushu Thé vert grillé Hojicha ❘ Japon ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,00",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Le Thé de Noël Alain Ducasse Thé vert et noir bio rose-framboise",
+    "tea_type": null,
+    "weight": "100 g",
+    "price": "€23,40",
+    "country_of_origin": "China, India"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Les Nymphéas Thé vert citron ❘ Bergamote ❘ Fleur d'oranger ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€18,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Long Jing, Hangzhou Zhejiang Thé vert nature ❘ Chine ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€22,10",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Pu Erh Thé sombre fermenté ❘ Chine ❘ Bio",
+    "tea_type": "Pu-erh tea",
+    "weight": "100 g",
+    "price": "€21,30",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Thé noir du Népal, Jardin de Guranse Thé noir nature ❘ Népal ❘ Bio",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€27,20",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Gu Zhang Mao Jian Thé vert nature ❘ Chine ❘ Vrac ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€15,90",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Wulu, Jiangxi Thé vert de Chine ❘ Yuncui ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€16,60",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Matcha premium Thé vert Matcha premium en poudre ❘ 30g ❘ Japon ❘ Bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€33,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Le Dessert Thé vert Pomme ❘ Amande ❘ Vanille ❘ bio",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€23,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Matcha Thé vert Matcha en poudre ❘ 30g ❘ Japon ❘ Bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Matcha cérémonie Thé vert Matcha cérémonie en poudre ❘ 30g ❘ Japon ❘ Bio",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€39,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Hojicha Thé vert Hojicha en poudre ❘ 30g ❘ Japon ❘ bio",
+    "tea_type": "Green tea",
+    "weight": "30 g",
+    "price": "€26,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Kusmi Tea",
+    "name": "Vert Sencha Thé vert Sencha ❘ Japon ❘ Bio",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€16,20",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PERLES D'ARGENT™",
+    "tea_type": "Green tea",
+    "weight": "50 g",
+    "price": "€172,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PERLES D'OR ®",
+    "tea_type": "Green tea",
+    "weight": "50 g",
+    "price": "€448,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS WHITE DAY ®",
+    "tea_type": "Oolong tea",
+    "weight": "50 g",
+    "price": "€17,30",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "IVORY HIMALAYA™",
+    "tea_type": "White tea",
+    "weight": "20 g",
+    "price": "€25,30",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "WHITE HIMALAYA ®",
+    "tea_type": "White tea",
+    "weight": "20 g",
+    "price": "€31,10",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "JADE HIMALAYA™",
+    "tea_type": "Green tea",
+    "weight": "50 g",
+    "price": "€23,00",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SILVER HIMALAYA ®",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€24,20",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BLUE HIMALAYA ®",
+    "tea_type": "Oolong tea",
+    "weight": "50 g",
+    "price": "€24,20",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RED HIMALAYA™",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€24,20",
+    "country_of_origin": "Nepal"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SMOKY MATSU ®",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SMOKY HINOKI ®",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SMOKY YAKUSUGI ®",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SMOKY NARA ®",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SMOKY SAKURA ®",
+    "tea_type": "Black tea",
+    "weight": "50 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "88TH NIGHT TEA ®",
+    "tea_type": "Green tea",
+    "weight": "50 g",
+    "price": "€29,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HONYAMACHA-MEICHA",
+    "tea_type": "Green tea",
+    "weight": "50 g",
+    "price": "€40,30",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "REIWA PREMIER",
+    "tea_type": "Green tea",
+    "weight": "80 g",
+    "price": "€33,40",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "TIBET - Thé des Prières ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THAÏLANDE - Thé des Offrandes ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "Thailand"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RUSSIE - Thé des Tzars ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ORIENT - Thé des Prophètes ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LAOS - Thé des Moussons ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "Laos"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "JAPON - Thé des Samouraïs ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "INDE - Thé des Maharajahs ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "FRANCE - Thé des Lumières ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "COREÉ - Thé de l'Aube ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHINE - Thé du Dragon ®",
+    "tea_type": "Green tea",
+    "weight": "50 g",
+    "price": "€31,10",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CEYLAN - Thé des Dieux ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "Sri Lanka"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BRITANNIA - Thé de la Couronne ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BIRMANIE - Thé du Triangle d'Or ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "Myanmar"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ARABIE - Thé des Rois ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "AFRIQUE DU SUD - Zoulou Tea ®",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€31,10",
+    "country_of_origin": "South Africa"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SWEETHEART TEA ®",
+    "tea_type": "Green tea",
+    "weight": null,
+    "price": "€63,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE MONKEY",
+    "tea_type": "White tea",
+    "weight": "40 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE SNAKE",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE RAT",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE SHEEP",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF DRAGON",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE ROOSTER",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE DOG",
+    "tea_type": "White tea",
+    "weight": "30 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE HORSE",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE PIG",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YEAR OF THE OX",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ BLANC SACRÉ™",
+    "tea_type": "White tea",
+    "weight": null,
+    "price": "€78,20",
+    "country_of_origin": "Sri Lanka"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "TOKYO MOJITO",
+    "tea_type": "Green tea",
+    "weight": "140 g",
+    "price": "€51,80",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RIO SUMMER ®",
+    "tea_type": "Rooibos",
+    "weight": "160 g",
+    "price": "€51,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RIO SUMMER ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,70",
+    "country_of_origin": "Brazil"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SUMMER YUZU ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PANAMA ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HAWAÏÏ:KAWAÏÏ ®",
+    "tea_type": "Rooibos",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HAWAÏÏ:KAWAÏÏ ®",
+    "tea_type": "Green tea",
+    "weight": "140 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CACTUS BLEU ®",
+    "tea_type": "Oolong tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PINK CACTUS",
+    "tea_type": "Rooibos",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "VIOLETTA ®",
+    "tea_type": "Black tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HAVANA ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BABYLONIA ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SUMMER SNOW ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ISKANDAR ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ VERT SAHARA ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ DES VOYAGEURS",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ SUR LE NIL ®",
+    "tea_type": "Green tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ DES MAHARAJAHS ®",
+    "tea_type": "Black tea",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CASABLANCA ®",
+    "tea_type": "Black tea",
+    "weight": "160 g",
+    "price": "€51,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY FRENCH BLUE ®",
+    "tea_type": "Earl Grey",
+    "weight": "160 g",
+    "price": "€51,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ À L’OPÉRA ®",
+    "tea_type": "Fruit tea",
+    "weight": "150 g",
+    "price": "€59,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MARCO POLO ®",
+    "tea_type": "Fruit tea",
+    "weight": "150 g",
+    "price": "€59,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MADAME BUTTERFLY ®",
+    "tea_type": "Fruit tea",
+    "weight": "150 g",
+    "price": "€59,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HAPPY BIRTHDAY ®",
+    "tea_type": "Fruit tea",
+    "weight": "150 g",
+    "price": "€59,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS BASTILLE DAY ®",
+    "tea_type": "Oolong tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS - NEW YORK ®",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ EN PROVENCE ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MIDNIGHT MAGIC ®",
+    "tea_type": "Black tea",
+    "weight": "90 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ROOIBOS MIDNIGHT MAGIC ®",
+    "tea_type": "Rooibos",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HALLELUJAH ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CARRÉ D'OR ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HAPPY TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BEAUTIFUL TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LOVE STORY ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LOVE SONG TEA ®",
+    "tea_type": "Oolong tea",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LOVE SONG TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LOVE SONG TEA ®",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "I HAVE A DREAM ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SEXY TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS - SHANGHAÏ",
+    "tea_type": "Black tea",
+    "weight": "90 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS - SAÏGON",
+    "tea_type": "Green tea",
+    "weight": "90 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS - BANGKOK ®",
+    "tea_type": "Black tea",
+    "weight": "90 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS - KYOTO",
+    "tea_type": "Green tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BEL AMI ®",
+    "tea_type": "Oolong tea",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BLACK OPÉRA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ÉTOILE MYSTÉRIEUSE ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ ROUGE DE PÂQUES ®",
+    "tea_type": "Rooibos",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ BLEU DE PÂQUES ®",
+    "tea_type": "Oolong tea",
+    "weight": "90 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ VERT DE PÂQUES ®",
+    "tea_type": "Green tea",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BÛCHE DE NOËL ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HABIBI ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS PARTY ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS SONG ®",
+    "tea_type": "Black tea",
+    "weight": null,
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS STRAWBERRY ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS ORANGE ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS CAKE TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS PUDDING TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "NOËL TEA ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHRISTMAS EARL GREY ®",
+    "tea_type": "Earl Grey",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "FRENCH TEA ®",
+    "tea_type": "Oolong tea",
+    "weight": null,
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "1854 SUPRÊME ®",
+    "tea_type": "Black tea",
+    "weight": null,
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BOURG TIBOURG ®",
+    "tea_type": "Black tea",
+    "weight": "90 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "HAUTE COUTURE ®",
+    "tea_type": "White tea",
+    "weight": "25 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "COUP DE SOLEIL ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "FALL IN LOVE ®",
+    "tea_type": "Oolong tea",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS TEA TIME ®",
+    "tea_type": "White tea",
+    "weight": "25 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SAKURA WHITE TEA ®",
+    "tea_type": "White tea",
+    "weight": "25 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY LIMERANCE ®",
+    "tea_type": "Earl Grey",
+    "weight": "80 g",
+    "price": "€33,40",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY CHARISMA ®",
+    "tea_type": "Earl Grey",
+    "weight": "80 g",
+    "price": "€33,40",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY RHAPSODY ®",
+    "tea_type": "Earl Grey",
+    "weight": "20 g",
+    "price": "€29,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY MAGIQUE ®",
+    "tea_type": "Earl Grey",
+    "weight": "25 g",
+    "price": "€33,40",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BEL AMI ®",
+    "tea_type": "Rooibos",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MIDNIGHT IN PARIS ®",
+    "tea_type": "Rooibos",
+    "weight": "80 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "AUTOMNE ROSE",
+    "tea_type": "Rooibos",
+    "weight": "80 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "AUTOMNE BLANC ®",
+    "tea_type": "White tea",
+    "weight": "30 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "AUTOMNE BLEU ®",
+    "tea_type": "Oolong tea",
+    "weight": "70 g",
+    "price": "€31,10",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS-AOYAMA ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS-TOKYO ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€29,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS-MARAIS ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS ROYAL ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€36,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS-GINZA ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "FLOWER MOON ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€29,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "DE-STRESS TEA ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ VERT AU TIBET ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ISKANDAR ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YUZU INDIGO ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "YUZU TEMPLE ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ AU SAHARA ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RUSSIAN STAR ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "IMPERIAL RUSSIA ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€27,60",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BLACK ORCHID ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "VERT PROVENCE ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "TEMPLE DE L'AUBE ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "NOCTURNE ORIENTAL ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ DE LUNE ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "SWEET SHANGHAÏ ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "NIL NOIR ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS-SINGAPOUR ®",
+    "tea_type": "Green tea",
+    "weight": "80 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ DES IMPRESSIONNISTES ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ALEXANDRA DAVID-NÉEL ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BOUDDHA BLEU ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ VERT POLO CLUB ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MARCO POLO VERT SUBLIME ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€29,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ VERT MARCO POLO ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MONTAGNE DE JADE ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ SUR LE NIL ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ BLEU DES LEGENDES ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€32,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ DES LÉGENDES ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "OPÉRA HAUTE COUTURE ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€25,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "OPÉRA BLUE ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€25,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "FANTÔME DE L'OPÉRA ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ À L'OPÉRA ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "WEDDING IMPÉRIAL ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "AVIATEUR ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€26,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PLEINE LUNE ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MONTAGNE D'OR ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PHARAON ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BLUE VALENTINE ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€27,60",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MIRABEAU ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RUSCHKA BLUE ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€27,60",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "RUSCHKA ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "THÉ AU TIBET ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€25,30",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ORIENTAL™",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "NOËL NOUVEAU ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ESPRIT DE NOËL ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "POLO CLUB ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MARCO POLO BLUE ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€29,90",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "POLO CLUB SUBLIME ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€28,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MARCO POLO SUBLIME ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€28,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MARCO POLO ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€21,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ÉROS ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CASABLANCA ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "BOLÉRO ®",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "APOLLON ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€27,60",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "WHITE RHAPSODY ®",
+    "tea_type": "White tea",
+    "weight": "50 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "VANILLE DES ILES™",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€21,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ROSE TUDOR ®",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€28,80",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "MAJESTIC LIME & GINGER™",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€25,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "VANILLE ORCHIDEE ROUGE",
+    "tea_type": "Rooibos",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": "South Africa"
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "ORCHIDÉE MAGIQUE ®",
+    "tea_type": "Oolong tea",
+    "weight": "100 g",
+    "price": "€27,60",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "JASMIN MANDARIN™",
+    "tea_type": "Jasmine tea",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHAÏ PARISIEN ®",
+    "tea_type": "Chai",
+    "weight": "100 g",
+    "price": "€24,20",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHAÏ - CHANDERNAGOR ®",
+    "tea_type": "Chai",
+    "weight": "100 g",
+    "price": "€26,50",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS EARL GREY ®",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY FRENCH BLUE ®",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY PROVENCE ®",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€23,00",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY IMPÉRIAL ®",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€29,90",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "EARL GREY D'OR ®",
+    "tea_type": "Earl Grey",
+    "weight": "100 g",
+    "price": "€25,30",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "PARIS-LONDON ®",
+    "tea_type": "Black tea",
+    "weight": "80 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LUNE ROUGE ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "LA ROUTE DU TEMPS ®",
+    "tea_type": "Green tea",
+    "weight": "100 g",
+    "price": "€20,70",
+    "country_of_origin": null
+  },
+  {
+    "market": "EN",
+    "company": "Mariage Frères",
+    "name": "CHAÏ - KARIKAL ®",
+    "tea_type": "Chai",
+    "weight": "100 g",
+    "price": "€26,50",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite tisane - Tisane de Noel",
+    "tea_type": "Herbal tea",
+    "weight": "100 g",
+    "price": "€38,63",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Rendez-vous pour le thé",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€27,81",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite tisane - Bouquet de Manon",
+    "tea_type": "Herbal tea",
+    "weight": "100 g",
+    "price": "€37,08",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Vivre les belles choses de la vie",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€27,81",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite tisane - Céleste",
+    "tea_type": "Herbal tea",
+    "weight": "100 g",
+    "price": "€32,45",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir Christmas d'Antan - Thé noir Christmas",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€29,36",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Il était une fois Noël",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€24,72",
+    "country_of_origin": "China, Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite Rooibos Nougat - Boite Merveilles",
+    "tea_type": "Rooibos",
+    "weight": "125 g",
+    "price": "€28,84",
+    "country_of_origin": "South Africa"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Il était une fois Noël",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€27,81",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Les Invités",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€26,78",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Lundi light",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€24,72",
+    "country_of_origin": "Mexico"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Caviar de Yuzu",
+    "tea_type": "Black tea",
+    "weight": "100 g",
+    "price": "€28,84",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Si Nancy m'était conté",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€26,27",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Allons voir Eden Rose",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€25,24",
+    "country_of_origin": "Sri Lanka, China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Malesherbes",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€25,24",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - La Dame du Lac",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€24,72",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Un Gentleman à Deauville",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€26,27",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Pouchkine Poupée Russe",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€32,45",
+    "country_of_origin": "China, Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Une Journée à la Campagne",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€26,27",
+    "country_of_origin": "China, Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Parlez-moi d'Amour",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€25,24",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Jour de Fête",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€25,24",
+    "country_of_origin": "China, Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - C'est une belle Histoire",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€25,24",
+    "country_of_origin": "China, Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Pomme d'orange",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€27,30",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite rooibos - Jardin Rouge",
+    "tea_type": "Rooibos",
+    "weight": "125 g",
+    "price": "€32,45",
+    "country_of_origin": null
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Menthe",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€25,24",
+    "country_of_origin": "China, Morocco"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir et vert - Thé des Amours",
+    "tea_type": null,
+    "weight": "125 g",
+    "price": "€22,66",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Earl Grey",
+    "tea_type": "Earl Grey",
+    "weight": "125 g",
+    "price": "€22,66",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Autumn Blend",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€22,66",
+    "country_of_origin": "China, Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Breakfast",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€20,60",
+    "country_of_origin": "Sri Lanka, China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé vert - Japon Sencha",
+    "tea_type": "Green tea",
+    "weight": "125 g",
+    "price": "€30,90",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Lapsang Souchong",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€27,81",
+    "country_of_origin": "China"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Darjeeling Margaret's Hope",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€33,99",
+    "country_of_origin": "India"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Ceylan Kenilworth",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€23,69",
+    "country_of_origin": "Sri Lanka"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Thé vert japonais Matcha bio (boîte 30g)",
+    "tea_type": "Matcha",
+    "weight": "30 g",
+    "price": "€46,87",
+    "country_of_origin": "Japan"
+  },
+  {
+    "market": "FR",
+    "company": "Betjeman & Barton",
+    "name": "Boite thé noir - Pouchkine",
+    "tea_type": "Black tea",
+    "weight": "125 g",
+    "price": "€19,06",
+    "country_of_origin": "China, Sri Lanka"
+  }
+]

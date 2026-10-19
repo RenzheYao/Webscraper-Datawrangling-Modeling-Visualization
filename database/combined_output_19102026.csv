@@ -1,0 +1,400 @@
+﻿market,company,name,tea_type,weight,price,country_of_origin
+FR,palais des thes,Sencha Ariake bio,Green tea,100 g,"€19,80",Japan
+FR,palais des thes,Thé noir N°25 bio,Black tea,110 g,"€16,00","India, China"
+FR,palais des thes,Thé Matcha Vanille bio,Matcha,30 g,"€35,00",Japan
+FR,palais des thes,Grand Jasmin Chun Feng,Jasmine tea,100 g,"€16,00",China
+FR,palais des thes,Thé du Louvre - Côté Cour,Black tea,110 g,"€17,40",India
+FR,palais des thes,Genmaicha Yama bio,Green tea,130 g,"€17,90",Japan
+FR,palais des thes,Thé des Moines,,100 g,"€15,00","India, China"
+FR,palais des thes,La Menthe Glaciale bio,Green tea,90 g,"€16,40",China
+FR,palais des thes,Darjeeling Mist Bari bio,Black tea,100 g,"€15,00",India
+FR,palais des thes,Thé Matcha Châtaigne bio,Matcha,30 g,"€35,00",Japan
+FR,palais des thes,Thé des Alizés,Green tea,90 g,"€14,70",China
+FR,palais des thes,Montagne Bleue,Black tea,100 g,"€14,70","India, Africa"
+FR,palais des thes,Le Thé Merveilleux,Green tea,100 g,"€15,40",China
+FR,palais des thes,Blue of London,Earl Grey,100 g,"€15,40",China
+FR,palais des thes,Thé des Voyages bio,Green tea,120 g,"€17,50",Japan
+FR,palais des thes,Thé du Hammam,Green tea,100 g,"€14,70",China
+FR,palais des thes,Thé Céleste bio,Green tea,110 g,"€17,50",China
+FR,palais des thes,Long Jing,Green tea,100 g,"€20,00",China
+FR,palais des thes,Pu Erh Impérial,Pu-erh tea,100 g,"€17,00",China
+FR,palais des thes,Thé des Sables,Green tea,100 g,"€14,40",China
+FR,palais des thes,Paris for you by day bio,Green tea,90 g,"€15,60",China
+FR,palais des thes,Big Ben bio,Black tea,100 g,"€14,50","China, India"
+FR,palais des thes,Chaï Impérial bio,Chai,100 g,"€16,00","China, India, Africa"
+FR,palais des thes,Fleur de Geisha,Green tea,100 g,"€14,70",China
+FR,palais des thes,Goût Russe 7 Agrumes bio,Black tea,100 g,"€15,40",India
+FR,palais des thes,Thé du Louvre - Côté Cour,Black tea,110 g,,"Sri Lanka, India, China"
+FR,palais des thes,Thé vert N°25 bio,Green tea,100 g,"€16,00",China
+FR,palais des thes,Thé du Louvre - Côté Jardin,Green tea,100 g,,China
+FR,palais des thes,Thé des Lords,Earl Grey,100 g,"€14,70",
+FR,palais des thes,Thé des Songes,Oolong tea,100 g,"€14,40",
+FR,palais des thes,Le Citron,Black tea,100 g,,India
+FR,palais des thes,Thé des Amants Vert,Green tea,100 g,,China
+FR,palais des thes,Détox Indienne bio,Black tea,120 g,"€17,40",India
+FR,palais des thes,Le Temps Retrouvé bio,,90 g,"€16,00","China, Japan"
+FR,palais des thes,Détox Japonaise bio,Green tea,120 g,"€17,40","Japan, China"
+FR,palais des thes,Thé des Vahinés - Thé Vert,Green tea,100 g,"€14,70",China
+FR,palais des thes,Thé des Sources,Green tea,90 g,"€14,40",China
+FR,palais des thes,Vive Les Fêtes,,100 g,"€14,70",China
+FR,palais des thes,Thé Matcha Ichi bio,Matcha,30 g,"€25,00",Japan
+FR,palais des thes,Thé des Gourmets,Black tea,110 g,,"China, Sri Lanka, India"
+FR,palais des thes,Paris for you by night bio,Black tea,100 g,,India
+FR,palais des thes,Thé Matcha Rose bio,Matcha,30 g,"€35,00",Japan
+FR,palais des thes,Thé des Étoiles,Green tea,120 g,,China
+FR,palais des thes,Thé Matcha Menthe bio,Matcha,30 g,"€35,00",Japan
+FR,palais des thes,Thé des Amants bio,Black tea,100 g,"€15,40","India, Africa"
+FR,palais des thes,Vive le thé ! bio,Green tea,100 g,"€15,00",China
+FR,palais des thes,Thé des Lords,Earl Grey,100 g,,"India, Africa"
+FR,palais des thes,Green of London bio,Earl Grey,100 g,"€15,40",China
+FR,palais des thes,Thé du Louvre - Côté Jardin,Green tea,100 g,"€17,40",China
+FR,palais des thes,Grand Yunnan Impérial bio,Black tea,100 g,"€14,00",China
+FR,palais des thes,Détox Brésilienne bio,Green tea,100 g,"€17,40","China, Brazil"
+FR,palais des thes,Thé des Étoiles,Green tea,120 g,"€15,40",China
+FR,palais des thes,Thé Matcha Kokoro bio,Matcha,30 g,"€36,00",Japan
+FR,Dammann Frères,"Breakfast, boîte 100g",Black tea,100 g,"€14,20",
+FR,Dammann Frères,"Week-end à Paris, Boîte 100g",Black tea,100 g,"€25,90",
+FR,Dammann Frères,"Earl grey des seigneurs, boîte 75g",Earl Grey,75 g,"€22,80",
+FR,Dammann Frères,Thé du Japon - Matcha Minami Yamashiro Supreme – boîte 20g,Matcha,20 g,"€56,50",Japan
+FR,Dammann Frères,"Jasmin Chung Hao, boîte 100g",Jasmine tea,100 g,"€20,30",
+FR,Dammann Frères,Christmas Tea - boîte 100 g,Black tea,100 g,"€16,00",
+FR,Dammann Frères,"Joli cœur, Boîte 65G",Black tea,65 g,"€20,40",
+FR,Dammann Frères,"Tisane du Roy, Boîte 60g",Herbal tea,60 g,"€20,80",
+FR,Dammann Frères,"Altitude, Boîte 100g",Black tea,100 g,"€22,30",
+FR,Dammann Frères,"Passion de Fleurs, boîte 60g",Black tea,60 g,"€18,80",
+FR,Dammann Frères,"Thé des Mille Collines (Chaï), boîte 150g",Chai,150 g,"€19,80",
+FR,Dammann Frères,"Tisane des merveilles, boîte 45g",Herbal tea,45 g,"€15,20",
+FR,Dammann Frères,Thé du Japon - Matcha Minami Yamashiro - boîte 20g,Matcha,20 g,"€41,00",Japan
+FR,Dammann Frères,"4 Fruits Rouges, boîte 100g",Black tea,100 g,"€13,70",
+FR,Dammann Frères,"Ceylan O.P., boîte 100g",Black tea,100 g,"€15,70",Sri Lanka
+FR,Dammann Frères,"Carcadet Passion Framboise, boîte 100g",Fruit tea,100 g,"€15,70",
+FR,Dammann Frères,"Sencha Fukuyu, boîte 100g",Black tea,100 g,"€23,00",
+FR,Dammann Frères,"infusion happy dreams, boîte 70g",,70 g,"€18,80",
+FR,Dammann Frères,"Assam G.F.O.P., boîte 100g",Black tea,100 g,"€16,20",India
+FR,Dammann Frères,Thé du Japon - UJI Matcha - boîte 20g,Matcha,20 g,"€23,00",Japan
+FR,Dammann Frères,"Thé vert à la menthe aromatisé, boîte 100g",Green tea,100 g,"€14,50",
+FR,Dammann Frères,Darjeeling G.F.O.P. boîte 100g,Black tea,100 g,"€17,80",India
+FR,Dammann Frères,"Carcadet cassis menthe, boîte 100g",Herbal tea,100 g,"€15,70",
+FR,Dammann Frères,Rooibos de Noël - boîte 100 g,Rooibos,100 g,"€16,00",
+FR,Dammann Frères,Noël en Laponie - boîte 100 g,Black tea,100 g,"€16,00",
+FR,Dammann Frères,"Grand goût Russe, Boîte 100g",Black tea,100 g,"€19,30",
+FR,Dammann Frères,"Earl Grey Yin Zhen, boîte 100g",Earl Grey,100 g,"€16,20",
+FR,Dammann Frères,"Rooibos carrot cake, Boîte 100g",Rooibos,100 g,"€15,70",
+FR,Dammann Frères,"L'Ôriental, boîte 100g",Black tea,100 g,"€14,80",
+FR,Dammann Frères,"Maté clémentine, boîte de 100g",Black tea,100 g,"€16,00",
+FR,Dammann Frères,"Rooibos Oriental, boite de 100g",Rooibos,100 g,"€15,70",
+FR,Dammann Frères,"Paul & Virginie, boîte 100g",Black tea,100 g,"€14,70",
+FR,Dammann Frères,"Smokey Lapsang, boîte de 100g",Black tea,100 g,"€14,20",
+FR,Dammann Frères,"Tour Eiffel, boîte 100g",Black tea,100 g,"€19,30",
+FR,Dammann Frères,"Miss Dammann, boîte de 100g",Green tea,100 g,"€17,90",
+FR,Dammann Frères,"Jardin Bleu, boîte 100g",Black tea,100 g,"€14,20",
+FR,Dammann Frères,"Pomme d'Amour, boîte 100g",Black tea,100 g,"€14,20",
+FR,Dammann Frères,Noël à Paris - boîte 100 g,Black tea,100 g,"€16,00",
+FR,Dammann Frères,"Goût Russe Douchka, boîte 100g",Black tea,100 g,"€15,70",
+FR,Dammann Frères,"7 Parfums, boîte 100g",Black tea,100 g,"€13,70",
+FR,Kusmi Tea,Calendrier de l'Avent Thés et infusions ❘ 24 surprises ❘ Bio,,16 g,"€38,90",
+FR,Kusmi Tea,Rituel Energie Thé vert énergisant ❘ maté ❘ céréales ❘ caféine ❘ bio,Green tea,100 g,"€24,90",
+FR,Kusmi Tea,Rituel Sommeil Tisane pour dormir ❘ Rooibos ❘ Mélisse ❘ Bio,Rooibos,100 g,"€24,90",
+FR,Kusmi Tea,Rituel Drainant Tisane detox ❘ Hibiscus ❘ Fruits ❘ Pissenlit ❘ Bio,Herbal tea,100 g,"€24,90",
+FR,Kusmi Tea,Rituel Minceur Thé pour maigrir ❘ Maté ❘ Fruits rouges ❘ Bio,Green tea,100 g,"€24,90",
+FR,Kusmi Tea,Rituel Défenses Immunitaires Thé vert maté ❘ Enrichi en vitamine C ❘ Bio,Green tea,100 g,"€24,90",
+FR,Kusmi Tea,Rituel Mémoire Thé vert ginseng ❘ Bergamote ❘ Maté ❘ Bio,Green tea,100 g,"€24,90",
+FR,Kusmi Tea,Coffret Rituel Assortiment de thés et infusion enrichis,,,"€23,90",
+FR,Kusmi Tea,Thé vert à la menthe bio à l'arôme naturel de rose Kusmi Tea x Limistic,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Le Praliné Thé noir Chocolat-Noisette ❘ Sarrasin ❘ Hojicha,Black tea,95 g,"€23,90",Japan
+FR,Kusmi Tea,Carte cadeau EUR,,,"€30,00",
+FR,Kusmi Tea,Spécialité de thé Le Dessert A tartiner,,250 g,"€8,90",
+FR,Kusmi Tea,BB Detox Thé vert Maté ❘ Pamplemousse ❘ Bio,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Thé vert à la menthe Thé vert à la menthe ❘ Bio,Green tea,100 g,"€15,50",
+FR,Kusmi Tea,Anastasia Thé noir earl grey ❘ Fleur d'oranger ❘ Bio,Earl Grey,100 g,"€16,50",
+FR,Kusmi Tea,Tropical White Thé blanc mangue ❘ Passion ❘ Bio,White tea,90 g,"€19,90",India
+FR,Kusmi Tea,Vert gingembre-citron Thé vert gingembre ❘ Citron ❘ Bio,Green tea,100 g,"€15,50",
+FR,Kusmi Tea,Prince Vladimir Thé noir earl grey ❘ Agrumes ❘ Vanille ❘ Bio,Earl Grey,100 g,"€7,90",
+FR,Kusmi Tea,Vert Jasmin Thé vert jasmin ❘ Bio,Jasmine tea,90 g,"€15,50",
+FR,Kusmi Tea,St-Pétersbourg Thé noir earl grey ❘ Fruits ❘ Caramel ❘ Bio,Earl Grey,100 g,"€16,50",
+FR,Kusmi Tea,Detox Thé vert maté ❘ Citron ❘ Bio,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Earl Grey Thé noir earl grey ❘ Bergamote ❘ Bio,Earl Grey,100 g,"€15,50",China
+FR,Kusmi Tea,Vert rose Thé vert à la rose ❘ Bio,Green tea,100 g,"€16,50",
+FR,Kusmi Tea,Earl Grey Intense Thé noir earl grey ❘ Bergamote ❘ Citron ❘ Bio,Earl Grey,100 g,"€16,50",China
+FR,Kusmi Tea,Thé vert menthe concombre Thé vert menthe ❘ Concombre ❘ Bio,Green tea,100 g,"€16,50",
+FR,Kusmi Tea,Boost Thé vert maté ❘ Gingembre ❘ Bio,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Kashmir Tchaï Thé noir aux épices ❘ Bio,Black tea,100 g,"€16,50","China, Nepal, India"
+FR,Kusmi Tea,English Breakfast Thé noirs Ceylan ❘ Assam ❘ Bio,Black tea,100 g,"€15,50",
+FR,Kusmi Tea,Quatre Fruits Rouges Thé noir fruits rouges ❘ Bio,Black tea,100 g,"€6,70",
+FR,Kusmi Tea,White Bellini Thé blanc pêche ❘ Abricot ❘ Bio,White tea,90 g,"€19,90",
+FR,Kusmi Tea,Sweet Love Thé noir épices ❘ Bio,Black tea,100 g,"€18,50",India
+FR,Kusmi Tea,Label Imperial Thé vert épices ❘ Cannelle ❘ Bio,Green tea,100 g,"€18,50",Sri Lanka
+FR,Kusmi Tea,White Berries Thé blanc fraise ❘ Mûre ❘ Cassis ❘ Bio,White tea,90 g,"€19,90",
+FR,Kusmi Tea,White Anastasia Thé blanc bergamote ❘ Fleur d'oranger ❘ Bio,White tea,90 g,"€19,90",
+FR,Kusmi Tea,Blue Detox Thé vert maté ❘ Ananas,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Vert Amande Thé vert amande ❘ Bio,Green tea,100 g,"€15,50",
+FR,Kusmi Tea,Lovely Morning Thé vert maté ❘ Agrumes ❘ Bio,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Thé du matin N°24 Thés noirs bio ❘ Ceylan ❘ Assam ❘ Yunnan,Black tea,100 g,"€15,50","Sri Lanka, China, India"
+FR,Kusmi Tea,Tsarevna Thé de Noël ❘ Thé noir aux épices ❘ Bio,Black tea,100 g,"€18,50",
+FR,Kusmi Tea,Tchaï of the Tiger Thé noir épices ❘ Inde ❘ Bio,Black tea,100 g,"€18,50",India
+FR,Kusmi Tea,Thé vert de Chine Thé vert nature ❘ Chine ❘ Bio,Green tea,100 g,"€14,00",China
+FR,Kusmi Tea,Bouquet de Fleurs N°108 Thé noir ❘ Earl grey ❘ Fleur ❘ Ylang-Ylang ❘ Bio,Earl Grey,100 g,"€16,50",
+FR,Kusmi Tea,Le Thé Blanc Alain Ducasse Thé blanc rose ❘ Framboise ❘ Bio,White tea,120 g,"€26,40",
+FR,Kusmi Tea,Petit déjeuner à l'Élysée Thé vert maté ❘ Citron ❘ Bio,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,Maté Yerba Maté ❘ Nature ❘ Bio,,100 g,"€7,20",Brazil
+FR,Kusmi Tea,Darjeeling N°37 Thé noir Darjeeling ❘ Inde ❘ Bio,Black tea,100 g,"€16,20",India
+FR,Kusmi Tea,Ceylan OP Thé noir Ceylan ❘ Sri Lanka ❘ Bio,Black tea,100 g,"€14,00","Sri Lanka, India"
+FR,Kusmi Tea,L'Earl Grey à la française Thé noir bergamote ❘ Fleurs d'oranger ❘ Bio,Earl Grey,100 g,"€18,50",
+FR,Kusmi Tea,Lapsang Souchong Thé noir fumé ❘ Chine ❘ Bio,Black tea,90 g,"€15,50",China
+FR,Kusmi Tea,Vert St-Pétersbourg Thé vert bergamote ❘ Fruits rouges,Green tea,100 g,"€15,00",
+FR,Kusmi Tea,Earl Grey goût polonais N°18 Thé noir earl grey ❘ Bergamote ❘ Citron ❘ Bio,Earl Grey,100 g,"€15,00",
+FR,Kusmi Tea,Grand Yunnan N°21 Thé noir nature ❘ Chine ❘ Bio,Black tea,100 g,"€12,70","Vietnam, China"
+FR,Kusmi Tea,Genmaicha Thé vert Genmaicha ❘ Riz grillé ❘ Japon,Green tea,100 g,"€14,10",Japan
+FR,Kusmi Tea,French Cancan Bio Thé noir ❘ Fruits rouges ❘ Bio,Black tea,100 g,"€16,50",
+FR,Kusmi Tea,Vert Troïka Thé vert bergamote ❘ Citron ❘ Bio,Green tea,100 g,"€13,90",
+FR,Kusmi Tea,Troïka Thé noir earl grey ❘ Orange ❘ Mandarine,Earl Grey,100 g,"€13,90",
+FR,Kusmi Tea,Vert Gunpowder Thé vert Gunpowder ❘ Chine ❘ Bio,Green tea,100 g,"€13,00",China
+FR,Kusmi Tea,Assam Thé noir Corsé ❘ Inde ❘ Bio,Black tea,100 g,"€13,30",India
+FR,Kusmi Tea,Vert Bouquet Thé vert bergamote ❘ Fleurs ❘ Bio,Green tea,100 g,"€15,00",
+FR,Kusmi Tea,Perles de Jade au Jasmin Thé vert au Jasmin ❘ Chine ❘ Bio,Jasmine tea,100 g,"€44,50",China
+FR,Kusmi Tea,Vert Darjeeling Thé vert Darjeeling ❘ Inde ❘ Bio,Green tea,100 g,"€21,80",India
+FR,Kusmi Tea,"Hojicha, Kyushu Thé vert grillé Hojicha ❘ Japon ❘ Bio",Green tea,100 g,"€24,00",Japan
+FR,Kusmi Tea,Le Thé de Noël Alain Ducasse Thé vert et noir bio rose-framboise,,100 g,"€23,40","China, India"
+FR,Kusmi Tea,Les Nymphéas Thé vert citron ❘ Bergamote ❘ Fleur d'oranger ❘ Bio,Green tea,100 g,"€18,50",
+FR,Kusmi Tea,"Long Jing, Hangzhou Zhejiang Thé vert nature ❘ Chine ❘ Bio",Green tea,100 g,"€22,10",China
+FR,Kusmi Tea,Pu Erh Thé sombre fermenté ❘ Chine ❘ Bio,Pu-erh tea,100 g,"€21,30",China
+FR,Kusmi Tea,"Thé noir du Népal, Jardin de Guranse Thé noir nature ❘ Népal ❘ Bio",Black tea,100 g,"€27,20",Nepal
+FR,Kusmi Tea,Gu Zhang Mao Jian Thé vert nature ❘ Chine ❘ Vrac ❘ Bio,Green tea,100 g,"€15,90",China
+FR,Kusmi Tea,"Wulu, Jiangxi Thé vert de Chine ❘ Yuncui ❘ Bio",Green tea,100 g,"€16,60",China
+FR,Kusmi Tea,Matcha premium Thé vert Matcha premium en poudre ❘ 30g ❘ Japon ❘ Bio,Matcha,30 g,"€33,90",Japan
+FR,Kusmi Tea,Le Dessert Thé vert Pomme ❘ Amande ❘ Vanille ❘ bio,Green tea,90 g,"€23,90",
+FR,Kusmi Tea,Matcha Thé vert Matcha en poudre ❘ 30g ❘ Japon ❘ Bio,Matcha,30 g,"€29,90",Japan
+FR,Kusmi Tea,Matcha cérémonie Thé vert Matcha cérémonie en poudre ❘ 30g ❘ Japon ❘ Bio,Matcha,30 g,"€39,90",Japan
+FR,Kusmi Tea,Hojicha Thé vert Hojicha en poudre ❘ 30g ❘ Japon ❘ bio,Green tea,30 g,"€26,90",Japan
+FR,Kusmi Tea,Vert Sencha Thé vert Sencha ❘ Japon ❘ Bio,Green tea,100 g,"€16,20",Japan
+EN,Mariage Frères,PERLES D'ARGENT™,Green tea,50 g,"€172,50",
+EN,Mariage Frères,PERLES D'OR ®,Green tea,50 g,"€448,50",
+EN,Mariage Frères,PARIS WHITE DAY ®,Oolong tea,50 g,"€17,30",Japan
+EN,Mariage Frères,IVORY HIMALAYA™,White tea,20 g,"€25,30",Nepal
+EN,Mariage Frères,WHITE HIMALAYA ®,White tea,20 g,"€31,10",Nepal
+EN,Mariage Frères,JADE HIMALAYA™,Green tea,50 g,"€23,00",Nepal
+EN,Mariage Frères,SILVER HIMALAYA ®,Black tea,50 g,"€24,20",Nepal
+EN,Mariage Frères,BLUE HIMALAYA ®,Oolong tea,50 g,"€24,20",Nepal
+EN,Mariage Frères,RED HIMALAYA™,Black tea,50 g,"€24,20",Nepal
+EN,Mariage Frères,SMOKY MATSU ®,Black tea,50 g,"€29,90",Japan
+EN,Mariage Frères,SMOKY HINOKI ®,Black tea,50 g,"€29,90",Japan
+EN,Mariage Frères,SMOKY YAKUSUGI ®,Black tea,50 g,"€29,90",Japan
+EN,Mariage Frères,SMOKY NARA ®,Black tea,50 g,"€29,90",Japan
+EN,Mariage Frères,SMOKY SAKURA ®,Black tea,50 g,"€29,90",Japan
+EN,Mariage Frères,88TH NIGHT TEA ®,Green tea,50 g,"€29,90",Japan
+EN,Mariage Frères,HONYAMACHA-MEICHA,Green tea,50 g,"€40,30",Japan
+EN,Mariage Frères,REIWA PREMIER,Green tea,80 g,"€33,40",Japan
+EN,Mariage Frères,TIBET - Thé des Prières ®,Black tea,100 g,"€31,10",
+EN,Mariage Frères,THAÏLANDE - Thé des Offrandes ®,Green tea,100 g,"€31,10",Thailand
+EN,Mariage Frères,RUSSIE - Thé des Tzars ®,Black tea,100 g,"€31,10",
+EN,Mariage Frères,ORIENT - Thé des Prophètes ®,Black tea,100 g,"€31,10",
+EN,Mariage Frères,LAOS - Thé des Moussons ®,Green tea,100 g,"€31,10",Laos
+EN,Mariage Frères,JAPON - Thé des Samouraïs ®,Green tea,100 g,"€31,10",Japan
+EN,Mariage Frères,INDE - Thé des Maharajahs ®,Black tea,100 g,"€31,10",India
+EN,Mariage Frères,FRANCE - Thé des Lumières ®,Black tea,100 g,"€31,10",
+EN,Mariage Frères,COREÉ - Thé de l'Aube ®,Green tea,100 g,"€31,10",
+EN,Mariage Frères,CHINE - Thé du Dragon ®,Green tea,50 g,"€31,10",China
+EN,Mariage Frères,CEYLAN - Thé des Dieux ®,Black tea,100 g,"€31,10",Sri Lanka
+EN,Mariage Frères,BRITANNIA - Thé de la Couronne ®,Black tea,100 g,"€31,10",
+EN,Mariage Frères,BIRMANIE - Thé du Triangle d'Or ®,Green tea,100 g,"€31,10",Myanmar
+EN,Mariage Frères,ARABIE - Thé des Rois ®,Green tea,100 g,"€31,10",
+EN,Mariage Frères,AFRIQUE DU SUD - Zoulou Tea ®,Rooibos,100 g,"€31,10",South Africa
+EN,Mariage Frères,SWEETHEART TEA ®,Green tea,,"€63,30",
+EN,Mariage Frères,YEAR OF THE MONKEY,White tea,40 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE SNAKE,Green tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE RAT,Oolong tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE SHEEP,Green tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF DRAGON,Green tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE ROOSTER,Oolong tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE DOG,White tea,30 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE HORSE,Black tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE PIG,Green tea,100 g,"€32,20",
+EN,Mariage Frères,YEAR OF THE OX,Black tea,100 g,"€32,20",
+EN,Mariage Frères,THÉ BLANC SACRÉ™,White tea,,"€78,20",Sri Lanka
+EN,Mariage Frères,TOKYO MOJITO,Green tea,140 g,"€51,80",Japan
+EN,Mariage Frères,RIO SUMMER ®,Rooibos,160 g,"€51,70",
+EN,Mariage Frères,RIO SUMMER ®,Green tea,160 g,"€51,70",Brazil
+EN,Mariage Frères,SUMMER YUZU ®,Green tea,160 g,"€51,80",Japan
+EN,Mariage Frères,PANAMA ®,Green tea,160 g,"€51,80",
+EN,Mariage Frères,HAWAÏÏ:KAWAÏÏ ®,Rooibos,160 g,"€51,80",
+EN,Mariage Frères,HAWAÏÏ:KAWAÏÏ ®,Green tea,140 g,"€51,80",
+EN,Mariage Frères,CACTUS BLEU ®,Oolong tea,160 g,"€51,80",
+EN,Mariage Frères,PINK CACTUS,Rooibos,160 g,"€51,80",
+EN,Mariage Frères,VIOLETTA ®,Black tea,160 g,"€51,80",
+EN,Mariage Frères,HAVANA ®,Green tea,160 g,"€51,80",
+EN,Mariage Frères,BABYLONIA ®,Green tea,160 g,"€51,80",
+EN,Mariage Frères,SUMMER SNOW ®,Green tea,160 g,"€51,80",
+EN,Mariage Frères,ISKANDAR ®,Green tea,160 g,"€51,80",India
+EN,Mariage Frères,THÉ VERT SAHARA ®,Green tea,160 g,"€51,80",
+EN,Mariage Frères,THÉ DES VOYAGEURS,Green tea,160 g,"€51,80",
+EN,Mariage Frères,THÉ SUR LE NIL ®,Green tea,160 g,"€51,80",
+EN,Mariage Frères,THÉ DES MAHARAJAHS ®,Black tea,160 g,"€51,80",
+EN,Mariage Frères,CASABLANCA ®,Black tea,160 g,"€51,70",
+EN,Mariage Frères,EARL GREY FRENCH BLUE ®,Earl Grey,160 g,"€51,80",
+EN,Mariage Frères,THÉ À L’OPÉRA ®,Fruit tea,150 g,"€59,80",
+EN,Mariage Frères,MARCO POLO ®,Fruit tea,150 g,"€59,80",
+EN,Mariage Frères,MADAME BUTTERFLY ®,Fruit tea,150 g,"€59,80",
+EN,Mariage Frères,HAPPY BIRTHDAY ®,Fruit tea,150 g,"€59,80",
+EN,Mariage Frères,PARIS BASTILLE DAY ®,Oolong tea,80 g,"€32,20",
+EN,Mariage Frères,PARIS - NEW YORK ®,Green tea,90 g,"€32,20",
+EN,Mariage Frères,THÉ EN PROVENCE ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,MIDNIGHT MAGIC ®,Black tea,90 g,"€31,10",
+EN,Mariage Frères,ROOIBOS MIDNIGHT MAGIC ®,Rooibos,80 g,"€31,10",
+EN,Mariage Frères,HALLELUJAH ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,CARRÉ D'OR ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,HAPPY TEA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,BEAUTIFUL TEA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,LOVE STORY ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,LOVE SONG TEA ®,Oolong tea,80 g,"€31,10",
+EN,Mariage Frères,LOVE SONG TEA ®,Black tea,80 g,"€31,10",
+EN,Mariage Frères,LOVE SONG TEA ®,Green tea,90 g,"€31,10",
+EN,Mariage Frères,I HAVE A DREAM ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,SEXY TEA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,PARIS - SHANGHAÏ,Black tea,90 g,"€32,20",
+EN,Mariage Frères,PARIS - SAÏGON,Green tea,90 g,"€32,20",
+EN,Mariage Frères,PARIS - BANGKOK ®,Black tea,90 g,"€32,20",
+EN,Mariage Frères,PARIS - KYOTO,Green tea,80 g,"€32,20",
+EN,Mariage Frères,BEL AMI ®,Oolong tea,80 g,"€31,10",
+EN,Mariage Frères,BLACK OPÉRA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,ÉTOILE MYSTÉRIEUSE ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,THÉ ROUGE DE PÂQUES ®,Rooibos,80 g,"€31,10",
+EN,Mariage Frères,THÉ BLEU DE PÂQUES ®,Oolong tea,90 g,"€31,10",
+EN,Mariage Frères,THÉ VERT DE PÂQUES ®,Green tea,80 g,"€31,10",
+EN,Mariage Frères,BÛCHE DE NOËL ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,HABIBI ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,CHRISTMAS PARTY ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,CHRISTMAS SONG ®,Black tea,,"€32,20",
+EN,Mariage Frères,CHRISTMAS STRAWBERRY ®,Black tea,80 g,"€32,20",Japan
+EN,Mariage Frères,CHRISTMAS ORANGE ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,CHRISTMAS CAKE TEA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,CHRISTMAS PUDDING TEA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,NOËL TEA ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,CHRISTMAS EARL GREY ®,Earl Grey,80 g,"€32,20",
+EN,Mariage Frères,FRENCH TEA ®,Oolong tea,,"€32,20",
+EN,Mariage Frères,1854 SUPRÊME ®,Black tea,,"€32,20",
+EN,Mariage Frères,BOURG TIBOURG ®,Black tea,90 g,"€32,20",
+EN,Mariage Frères,HAUTE COUTURE ®,White tea,25 g,"€32,20",
+EN,Mariage Frères,COUP DE SOLEIL ®,Black tea,80 g,"€32,20",
+EN,Mariage Frères,FALL IN LOVE ®,Oolong tea,80 g,"€31,10",
+EN,Mariage Frères,PARIS TEA TIME ®,White tea,25 g,"€32,20",
+EN,Mariage Frères,SAKURA WHITE TEA ®,White tea,25 g,"€32,20",
+EN,Mariage Frères,EARL GREY LIMERANCE ®,Earl Grey,80 g,"€33,40",
+EN,Mariage Frères,EARL GREY CHARISMA ®,Earl Grey,80 g,"€33,40",
+EN,Mariage Frères,EARL GREY RHAPSODY ®,Earl Grey,20 g,"€29,90",
+EN,Mariage Frères,EARL GREY MAGIQUE ®,Earl Grey,25 g,"€33,40",
+EN,Mariage Frères,BEL AMI ®,Rooibos,80 g,"€31,10",
+EN,Mariage Frères,MIDNIGHT IN PARIS ®,Rooibos,80 g,"€32,20",
+EN,Mariage Frères,AUTOMNE ROSE,Rooibos,80 g,"€31,10",
+EN,Mariage Frères,AUTOMNE BLANC ®,White tea,30 g,"€31,10",
+EN,Mariage Frères,AUTOMNE BLEU ®,Oolong tea,70 g,"€31,10",
+EN,Mariage Frères,PARIS-AOYAMA ®,Black tea,100 g,"€24,20",
+EN,Mariage Frères,PARIS-TOKYO ®,Black tea,100 g,"€29,90",
+EN,Mariage Frères,PARIS-MARAIS ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,PARIS ROYAL ®,Oolong tea,100 g,"€36,80",
+EN,Mariage Frères,PARIS-GINZA ®,Black tea,100 g,"€21,90",
+EN,Mariage Frères,FLOWER MOON ®,Oolong tea,100 g,"€29,90",
+EN,Mariage Frères,DE-STRESS TEA ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,THÉ VERT AU TIBET ®,Green tea,100 g,"€21,90",
+EN,Mariage Frères,ISKANDAR ®,Green tea,100 g,"€21,90",India
+EN,Mariage Frères,YUZU INDIGO ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,YUZU TEMPLE ®,Green tea,100 g,"€21,90",
+EN,Mariage Frères,THÉ AU SAHARA ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,RUSSIAN STAR ®,Green tea,100 g,"€21,90",
+EN,Mariage Frères,IMPERIAL RUSSIA ®,Black tea,100 g,"€27,60",
+EN,Mariage Frères,BLACK ORCHID ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,VERT PROVENCE ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,TEMPLE DE L'AUBE ®,Green tea,100 g,"€21,90",
+EN,Mariage Frères,NOCTURNE ORIENTAL ®,Green tea,100 g,"€20,70",
+EN,Mariage Frères,THÉ DE LUNE ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,SWEET SHANGHAÏ ®,Green tea,100 g,"€23,00",China
+EN,Mariage Frères,NIL NOIR ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,PARIS-SINGAPOUR ®,Green tea,80 g,"€20,70",
+EN,Mariage Frères,THÉ DES IMPRESSIONNISTES ®,Green tea,100 g,"€24,20",
+EN,Mariage Frères,ALEXANDRA DAVID-NÉEL ®,Black tea,100 g,"€23,00",China
+EN,Mariage Frères,BOUDDHA BLEU ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,THÉ VERT POLO CLUB ®,Green tea,100 g,"€21,90",China
+EN,Mariage Frères,MARCO POLO VERT SUBLIME ®,Green tea,100 g,"€29,90",
+EN,Mariage Frères,THÉ VERT MARCO POLO ®,Green tea,100 g,"€21,90",China
+EN,Mariage Frères,MONTAGNE DE JADE ®,Green tea,100 g,"€24,20",
+EN,Mariage Frères,THÉ SUR LE NIL ®,Green tea,100 g,"€21,90",
+EN,Mariage Frères,THÉ BLEU DES LEGENDES ®,Oolong tea,100 g,"€32,20",
+EN,Mariage Frères,THÉ DES LÉGENDES ®,Green tea,100 g,"€24,20",
+EN,Mariage Frères,OPÉRA HAUTE COUTURE ®,Green tea,100 g,"€25,30",
+EN,Mariage Frères,OPÉRA BLUE ®,Oolong tea,100 g,"€25,30",
+EN,Mariage Frères,FANTÔME DE L'OPÉRA ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,THÉ À L'OPÉRA ®,Green tea,100 g,"€23,00",
+EN,Mariage Frères,WEDDING IMPÉRIAL ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,AVIATEUR ®,Black tea,100 g,"€26,50",
+EN,Mariage Frères,PLEINE LUNE ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,MONTAGNE D'OR ®,Black tea,100 g,"€20,70",China
+EN,Mariage Frères,PHARAON ®,Green tea,100 g,"€20,70",
+EN,Mariage Frères,BLUE VALENTINE ®,Oolong tea,100 g,"€27,60",
+EN,Mariage Frères,MIRABEAU ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,RUSCHKA BLUE ®,Oolong tea,100 g,"€27,60",
+EN,Mariage Frères,RUSCHKA ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,THÉ AU TIBET ®,Black tea,100 g,"€25,30",China
+EN,Mariage Frères,ORIENTAL™,Black tea,100 g,"€24,20",
+EN,Mariage Frères,NOËL NOUVEAU ®,Green tea,100 g,"€21,90",
+EN,Mariage Frères,ESPRIT DE NOËL ®,Black tea,100 g,"€21,90",
+EN,Mariage Frères,POLO CLUB ®,Black tea,100 g,"€21,90",
+EN,Mariage Frères,MARCO POLO BLUE ®,Oolong tea,100 g,"€29,90",China
+EN,Mariage Frères,POLO CLUB SUBLIME ®,Black tea,100 g,"€28,80",
+EN,Mariage Frères,MARCO POLO SUBLIME ®,Black tea,100 g,"€28,80",
+EN,Mariage Frères,MARCO POLO ®,Black tea,100 g,"€21,80",
+EN,Mariage Frères,ÉROS ®,Black tea,100 g,"€21,90",
+EN,Mariage Frères,CASABLANCA ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,BOLÉRO ®,Black tea,100 g,"€20,70",
+EN,Mariage Frères,APOLLON ®,Oolong tea,100 g,"€27,60",
+EN,Mariage Frères,WHITE RHAPSODY ®,White tea,50 g,"€21,90",
+EN,Mariage Frères,VANILLE DES ILES™,Black tea,100 g,"€21,90",
+EN,Mariage Frères,ROSE TUDOR ®,Rooibos,100 g,"€28,80",
+EN,Mariage Frères,MAJESTIC LIME & GINGER™,Oolong tea,100 g,"€25,30",
+EN,Mariage Frères,VANILLE ORCHIDEE ROUGE,Rooibos,100 g,"€24,20",South Africa
+EN,Mariage Frères,ORCHIDÉE MAGIQUE ®,Oolong tea,100 g,"€27,60",
+EN,Mariage Frères,JASMIN MANDARIN™,Jasmine tea,100 g,"€23,00",
+EN,Mariage Frères,CHAÏ PARISIEN ®,Chai,100 g,"€24,20",
+EN,Mariage Frères,CHAÏ - CHANDERNAGOR ®,Chai,100 g,"€26,50",
+EN,Mariage Frères,PARIS EARL GREY ®,Earl Grey,100 g,"€23,00",
+EN,Mariage Frères,EARL GREY FRENCH BLUE ®,Earl Grey,100 g,"€23,00",
+EN,Mariage Frères,EARL GREY PROVENCE ®,Earl Grey,100 g,"€23,00",
+EN,Mariage Frères,EARL GREY IMPÉRIAL ®,Earl Grey,100 g,"€29,90",
+EN,Mariage Frères,EARL GREY D'OR ®,Earl Grey,100 g,"€25,30",
+EN,Mariage Frères,PARIS-LONDON ®,Black tea,80 g,"€20,70",
+EN,Mariage Frères,LUNE ROUGE ®,Green tea,100 g,"€20,70",
+EN,Mariage Frères,LA ROUTE DU TEMPS ®,Green tea,100 g,"€20,70",
+EN,Mariage Frères,CHAÏ - KARIKAL ®,Chai,100 g,"€26,50",India
+FR,Betjeman & Barton,Boite tisane - Tisane de Noel,Herbal tea,100 g,"€38,63",
+FR,Betjeman & Barton,Boite thé noir - Rendez-vous pour le thé,Black tea,125 g,"€27,81",
+FR,Betjeman & Barton,Boite tisane - Bouquet de Manon,Herbal tea,100 g,"€37,08",
+FR,Betjeman & Barton,Boite thé vert - Vivre les belles choses de la vie,Green tea,125 g,"€27,81",China
+FR,Betjeman & Barton,Boite tisane - Céleste,Herbal tea,100 g,"€32,45",
+FR,Betjeman & Barton,Boite thé noir Christmas d'Antan - Thé noir Christmas,Black tea,125 g,"€29,36",
+FR,Betjeman & Barton,Boite thé noir - Il était une fois Noël,Black tea,125 g,"€24,72","China, Sri Lanka"
+FR,Betjeman & Barton,Boite Rooibos Nougat - Boite Merveilles,Rooibos,125 g,"€28,84",South Africa
+FR,Betjeman & Barton,Boite thé vert - Il était une fois Noël,Green tea,125 g,"€27,81",China
+FR,Betjeman & Barton,Boite thé vert - Les Invités,Green tea,125 g,"€26,78",
+FR,Betjeman & Barton,Boite thé vert - Lundi light,Green tea,125 g,"€24,72",Mexico
+FR,Betjeman & Barton,Boite thé noir - Caviar de Yuzu,Black tea,100 g,"€28,84",
+FR,Betjeman & Barton,Boite thé vert - Si Nancy m'était conté,Green tea,125 g,"€26,27",China
+FR,Betjeman & Barton,Boite thé noir - Allons voir Eden Rose,Black tea,125 g,"€25,24","Sri Lanka, China"
+FR,Betjeman & Barton,Boite thé vert - Malesherbes,Green tea,125 g,"€25,24",China
+FR,Betjeman & Barton,Boite thé vert - La Dame du Lac,Green tea,125 g,"€24,72",China
+FR,Betjeman & Barton,Boite thé noir - Un Gentleman à Deauville,Black tea,125 g,"€26,27",
+FR,Betjeman & Barton,Boite thé noir - Pouchkine Poupée Russe,Black tea,125 g,"€32,45","China, Sri Lanka"
+FR,Betjeman & Barton,Boite thé noir - Une Journée à la Campagne,Black tea,125 g,"€26,27","China, Sri Lanka"
+FR,Betjeman & Barton,Boite thé vert - Parlez-moi d'Amour,Green tea,125 g,"€25,24",China
+FR,Betjeman & Barton,Boite thé noir - Jour de Fête,Black tea,125 g,"€25,24","China, Sri Lanka"
+FR,Betjeman & Barton,Boite thé noir - C'est une belle Histoire,Black tea,125 g,"€25,24","China, Sri Lanka"
+FR,Betjeman & Barton,Boite thé vert - Pomme d'orange,Green tea,125 g,"€27,30",China
+FR,Betjeman & Barton,Boite rooibos - Jardin Rouge,Rooibos,125 g,"€32,45",
+FR,Betjeman & Barton,Boite thé vert - Menthe,Green tea,125 g,"€25,24","China, Morocco"
+FR,Betjeman & Barton,Boite thé noir et vert - Thé des Amours,,125 g,"€22,66",China
+FR,Betjeman & Barton,Boite thé noir - Earl Grey,Earl Grey,125 g,"€22,66",China
+FR,Betjeman & Barton,Boite thé noir - Autumn Blend,Black tea,125 g,"€22,66","China, Sri Lanka"
+FR,Betjeman & Barton,Boite thé noir - Breakfast,Black tea,125 g,"€20,60","Sri Lanka, China"
+FR,Betjeman & Barton,Boite thé vert - Japon Sencha,Green tea,125 g,"€30,90",Japan
+FR,Betjeman & Barton,Boite thé noir - Lapsang Souchong,Black tea,125 g,"€27,81",China
+FR,Betjeman & Barton,Boite thé noir - Darjeeling Margaret's Hope,Black tea,125 g,"€33,99",India
+FR,Betjeman & Barton,Boite thé noir - Ceylan Kenilworth,Black tea,125 g,"€23,69",Sri Lanka
+FR,Betjeman & Barton,Thé vert japonais Matcha bio (boîte 30g),Matcha,30 g,"€46,87",Japan
+FR,Betjeman & Barton,Boite thé noir - Pouchkine,Black tea,125 g,"€19,06","China, Sri Lanka"

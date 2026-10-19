@@ -1,0 +1,16 @@
+﻿source_line,reason,extracted_at,market,company,name,tea_type,weight,price,country_of_origin
+27,missing price,18/10/2026 23:15,FR,palais des thes,Thé du Louvre - Côté Cour,Black tea,110 g,,"Sri Lanka, India, China"
+29,missing price,18/10/2026 23:15,FR,palais des thes,Thé du Louvre - Côté Jardin,Green tea,100 g,,China
+32,missing price,18/10/2026 23:15,FR,palais des thes,Le Citron,Black tea,100 g,,India
+33,missing price,18/10/2026 23:15,FR,palais des thes,Thé des Amants Vert,Green tea,100 g,,China
+41,missing price,18/10/2026 23:15,FR,palais des thes,Thé des Gourmets,Black tea,110 g,,"China, Sri Lanka, India"
+42,missing price,18/10/2026 23:15,FR,palais des thes,Paris for you by night bio,Black tea,100 g,,India
+44,missing price,18/10/2026 23:15,FR,palais des thes,Thé des Étoiles,Green tea,120 g,,China
+48,missing price,18/10/2026 23:15,FR,palais des thes,Thé des Lords,Earl Grey,100 g,,"India, Africa"
+102,missing weight,18/10/2026 23:15,FR,Kusmi Tea,Coffret Rituel Assortiment de thés et infusion enrichis,,,"€23,90",
+105,missing weight,18/10/2026 23:15,FR,Kusmi Tea,Carte cadeau EUR,,,"€30,00",
+202,missing weight,18/10/2026 23:15,FR,Mariage Frères,SWEETHEART TEA ®,Green tea,,"€63,30",
+213,missing weight,18/10/2026 23:15,FR,Mariage Frères,THÉ BLANC SACRÉ™,White tea,,"€78,20",Sri Lanka
+266,missing weight,18/10/2026 23:15,FR,Mariage Frères,CHRISTMAS SONG ®,Black tea,,"€32,20",
+273,missing weight,18/10/2026 23:15,FR,Mariage Frères,FRENCH TEA ®,Oolong tea,,"€32,20",
+274,missing weight,18/10/2026 23:15,FR,Mariage Frères,1854 SUPRÊME ®,Black tea,,"€32,20",

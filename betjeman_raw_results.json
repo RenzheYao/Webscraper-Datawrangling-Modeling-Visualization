@@ -1,0 +1,702 @@
+[
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/tisane-de-noel-boite-tisane",
+    "handle": "tisane-de-noel-boite-tisane",
+    "sku": "0307010",
+    "name": "Boite tisane - Tisane de Noel",
+    "variant": null,
+    "tea_type": "tisane",
+    "origin_country": null,
+    "weight": "100g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 38.63,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "tisane-noel"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/rendez-vous-pour-le-the-boite-the-noir",
+    "handle": "rendez-vous-pour-le-the-boite-the-noir",
+    "sku": "0306180",
+    "name": "Boite thé noir - Rendez-vous pour le thé",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": null,
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 27.81,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-rdv"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/bouquet-de-manon-boite-tisane",
+    "handle": "bouquet-de-manon-boite-tisane",
+    "sku": "0307009",
+    "name": "Boite tisane - Bouquet de Manon",
+    "variant": null,
+    "tea_type": "tisane",
+    "origin_country": null,
+    "weight": "100g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 37.08,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "tisane-manon"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/vivre-les-belles-choses-de-la-vie-boite-the-vert",
+    "handle": "vivre-les-belles-choses-de-la-vie-boite-the-vert",
+    "sku": "0306286",
+    "name": "Boite thé vert - Vivre les belles choses de la vie",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 27.81,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vivre"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/celeste-boite-tisane",
+    "handle": "celeste-boite-tisane",
+    "sku": "0307007",
+    "name": "Boite tisane - Céleste",
+    "variant": null,
+    "tea_type": "tisane",
+    "origin_country": null,
+    "weight": "100g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 32.45,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "tisane-celeste"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/the-noir-christmas-boite-the-noir-christmas-d-antan",
+    "handle": "the-noir-christmas-boite-the-noir-christmas-d-antan",
+    "sku": "0306081",
+    "name": "Boite thé noir Christmas d'Antan - Thé noir Christmas",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": null,
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 200,
+    "price_eur": 29.36,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-christmas"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/il-etait-une-fois-noel-boite-the-noir",
+    "handle": "il-etait-une-fois-noel-boite-the-noir",
+    "sku": "0306080",
+    "name": "Boite thé noir - Il était une fois Noël",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 24.72,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-noel"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/boite-merveilles-boite-rooibos-nougat",
+    "handle": "boite-merveilles-boite-rooibos-nougat",
+    "sku": "0306196",
+    "name": "Boite Rooibos Nougat - Boite Merveilles",
+    "variant": null,
+    "tea_type": "rooibos",
+    "origin_country": "Afrique du Sud",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 28.84,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "rooibos-nougat"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/il-etait-une-fois-noel-boite-the-vert",
+    "handle": "il-etait-une-fois-noel-boite-the-vert",
+    "sku": "0306719",
+    "name": "Boite thé vert -  Il était une fois Noël",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 27.81,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-noel"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/les-invites-boite-the-vert",
+    "handle": "les-invites-boite-the-vert",
+    "sku": "0306267",
+    "name": "Boite thé vert - Les Invités",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": null,
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 26.78,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-invites"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/lundi-light-boite-the-vert",
+    "handle": "lundi-light-boite-the-vert",
+    "sku": "0306265",
+    "name": "Boite thé vert - Lundi light",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Mexique",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 220,
+    "price_eur": 24.72,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-lundi"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/caviar-de-yuzu-boite-the-noir",
+    "handle": "caviar-de-yuzu-boite-the-noir",
+    "sku": "0306038",
+    "name": "Boite thé noir - Caviar de Yuzu",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": null,
+    "weight": "100g",
+    "weight_source": "image_filename",
+    "shipping_weight_g": 228,
+    "price_eur": 28.84,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-caviar-yuzu"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/si-nancy-m-etait-conte-boite-the-vert",
+    "handle": "si-nancy-m-etait-conte-boite-the-vert",
+    "sku": "0306293",
+    "name": "Boite thé vert - Si Nancy m'était conté",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 26.27,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-nancy"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/allons-voir-eden-rose-boite-the-noir",
+    "handle": "allons-voir-eden-rose-boite-the-noir",
+    "sku": "0306049",
+    "name": "Boite thé noir - Allons voir Eden Rose",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Sri Lanka, Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 220,
+    "price_eur": 25.24,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-eden-rose"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/malesherbes-boite-the-vert",
+    "handle": "malesherbes-boite-the-vert",
+    "sku": "0306124",
+    "name": "Boite thé vert - Malesherbes",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 152,
+    "price_eur": 25.24,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-malesherbes"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/la-dame-du-lac-boite-the-vert",
+    "handle": "la-dame-du-lac-boite-the-vert",
+    "sku": "0306043",
+    "name": "Boite thé vert - La Dame du Lac",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 24.72,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-dame-du-lac"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/un-gentleman-a-deauville-boite-the-noir",
+    "handle": "un-gentleman-a-deauville-boite-the-noir",
+    "sku": "0306220",
+    "name": "Boite thé noir - Un Gentleman à Deauville",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": null,
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 26.27,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-gentleman"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/pouchkine-poupee-russe-boite-the-noir",
+    "handle": "pouchkine-poupee-russe-boite-the-noir",
+    "sku": "0306001",
+    "name": "Boite thé noir - Pouchkine Poupée Russe",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 215,
+    "price_eur": 32.45,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-pouchkine"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/une-journee-a-la-campagne-boite-the-noir",
+    "handle": "une-journee-a-la-campagne-boite-the-noir",
+    "sku": "0306219",
+    "name": "Boite thé noir - Une Journée à la Campagne",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 26.27,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-journee-a-la-campagne"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/parlez-moi-d-amour-boite-the-vert",
+    "handle": "parlez-moi-d-amour-boite-the-vert",
+    "sku": "0306155",
+    "name": "Boite thé vert - Parlez-moi d'Amour",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 25.24,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-parlez-moi"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/jour-de-fete-boite-the-noir",
+    "handle": "jour-de-fete-boite-the-noir",
+    "sku": "0306101",
+    "name": "Boite thé noir -  Jour de Fête",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 25.24,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-jour-de-fete"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/c-est-une-belle-histoire-boite-the-noir",
+    "handle": "c-est-une-belle-histoire-boite-the-noir",
+    "sku": "0306020",
+    "name": "Boite thé noir - C'est une belle Histoire",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 25.24,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-belle-histoire"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/pomme-dorange-boite-the-vert",
+    "handle": "pomme-dorange-boite-the-vert",
+    "sku": "0306263",
+    "name": "Boite thé vert - Pomme d'orange",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 300,
+    "price_eur": 27.3,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-pomme-orange"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/jardin-rouge-boite-rooibos",
+    "handle": "jardin-rouge-boite-rooibos",
+    "sku": "0306187",
+    "name": "Boite rooibos - Jardin Rouge",
+    "variant": null,
+    "tea_type": "rooibos",
+    "origin_country": null,
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 32.45,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "rooibos-jardin-rouge"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/menthe-boite-the-vert",
+    "handle": "menthe-boite-the-vert",
+    "sku": "0306330",
+    "name": "Boite thé vert - Menthe",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Chine, Maroc",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 25.24,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-menthe"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/the-des-amours-boite-the-noir-et-vert",
+    "handle": "the-des-amours-boite-the-noir-et-vert",
+    "sku": "0306044",
+    "name": "Boite thé noir et vert - Thé des Amours",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 152,
+    "price_eur": 22.66,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-les-amours"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/earl-grey-boite-the-noir",
+    "handle": "earl-grey-boite-the-noir",
+    "sku": "0306050",
+    "name": "Boite thé noir - Earl Grey",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 22.66,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-earl-grey"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/autumn-blend-boite-the-noir",
+    "handle": "autumn-blend-boite-the-noir",
+    "sku": "0306004",
+    "name": "Boite thé noir - Autumn Blend",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 22.66,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-autumn-blend"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/breakfast-boite-the-noir",
+    "handle": "breakfast-boite-the-noir",
+    "sku": "0305430",
+    "name": "Boite thé noir - Breakfast",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Sri Lanka, Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 20.6,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-breakfast"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/japon-sencha-boite-the-vert",
+    "handle": "japon-sencha-boite-the-vert",
+    "sku": "0305415",
+    "name": "Boite thé vert - Japon Sencha",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Japon",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 30.9,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-vert-sencha"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/lapsang-souchong-boite-the-noir",
+    "handle": "lapsang-souchong-boite-the-noir",
+    "sku": "0305230",
+    "name": "Boite thé noir - Lapsang Souchong",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 27.81,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-lapsang"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/darjeeling-margaret-s-hope-boite-the-noir",
+    "handle": "darjeeling-margaret-s-hope-boite-the-noir",
+    "sku": "0305126",
+    "name": "Boite thé noir - Darjeeling Margaret's Hope",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Inde",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 33.99,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-margaret"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/ceylan-kenilworth-boite-the-noir",
+    "handle": "ceylan-kenilworth-boite-the-noir",
+    "sku": "0305031",
+    "name": "Boite thé noir - Ceylan Kenilworth",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 228,
+    "price_eur": 23.69,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-ceylan-kenilworth"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/the-vert-japonais-matcha-bio-boite-30g",
+    "handle": "the-vert-japonais-matcha-bio-boite-30g",
+    "sku": "0313002",
+    "name": "Thé vert japonais Matcha bio (boîte 30g)",
+    "variant": null,
+    "tea_type": "thé vert",
+    "origin_country": "Japon",
+    "weight": "30g",
+    "weight_source": "description",
+    "shipping_weight_g": 85,
+    "price_eur": 46.87,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-matcha"
+    ]
+  },
+  {
+    "market": "FR",
+    "url": "https://betjemanandbarton.com/products/boite-the-noir-pouchkine",
+    "handle": "boite-the-noir-pouchkine",
+    "sku": "0306161",
+    "name": "Boite thé noir - Pouchkine",
+    "variant": null,
+    "tea_type": "thé noir",
+    "origin_country": "Chine, Sri Lanka",
+    "weight": "125g",
+    "weight_source": "description",
+    "shipping_weight_g": 215,
+    "price_eur": 19.06,
+    "available": true,
+    "tags": [
+      "actif",
+      "b2c+b2b",
+      "the-noir-pouchkine"
+    ]
+  }
+]

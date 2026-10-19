@@ -1,0 +1,194 @@
+[
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/montagne-bleue-632.html",
+    "name": "Montagne Bleue",
+    "llm_filled": {
+      "country_of_origin": "India, Africa"
+    },
+    "rule_tea_type": "Black tea",
+    "rule_country": "India",
+    "raw_type": "Thé noir, fraise et fleurs",
+    "raw_origin": "Inde, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/earl-grey-fleurs-bleues-bio.html",
+    "name": "Earl Grey Fleurs Bleues bio",
+    "llm_filled": {
+      "country_of_origin": "India, Africa"
+    },
+    "rule_tea_type": "Earl Grey",
+    "rule_country": "India",
+    "raw_type": "Earl Grey - Thé noir et bergamote",
+    "raw_origin": "Inde, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/chai-imperial-bio.html",
+    "name": "Chaï Impérial bio",
+    "llm_filled": {
+      "country_of_origin": "China, India, Africa"
+    },
+    "rule_tea_type": "Chai",
+    "rule_country": "China, India",
+    "raw_type": "Thé noir, cardamome et baies roses",
+    "raw_origin": "Chine, Inde, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/mate-verde-chimarrao-bio.html",
+    "name": "Maté Verde Chimarrão bio",
+    "llm_filled": {
+      "tea_type": "Other"
+    },
+    "rule_tea_type": null,
+    "rule_country": null,
+    "raw_type": "Boisson énergisante - Rond et frais",
+    "raw_origin": null
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/lorelei-590.html",
+    "name": "Lorelei",
+    "llm_filled": {
+      "country_of_origin": "China, Sri Lanka, Africa, India"
+    },
+    "rule_tea_type": "Black tea",
+    "rule_country": "China, Sri Lanka, India",
+    "raw_type": "Thé noir, cannelle, vanille et amande",
+    "raw_origin": "Chine, Sri Lanka, Afrique, Inde"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/the-des-amants-bio.html",
+    "name": "Thé des Amants bio",
+    "llm_filled": {
+      "country_of_origin": "India, Africa"
+    },
+    "rule_tea_type": "Black tea",
+    "rule_country": "India",
+    "raw_type": "Thé noir, pomme, amande et épices",
+    "raw_origin": "Inde, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/earl-grey-queen-blend-bio.html",
+    "name": "Earl Grey Queen Blend bio",
+    "llm_filled": {
+      "country_of_origin": "India, Africa"
+    },
+    "rule_tea_type": "Earl Grey",
+    "rule_country": "India",
+    "raw_type": "Thé noir parfumé - Agrumes",
+    "raw_origin": "Inde, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/the-des-lords-471.html",
+    "name": "Thé des Lords",
+    "llm_filled": {
+      "country_of_origin": "India, Africa"
+    },
+    "rule_tea_type": "Earl Grey",
+    "rule_country": "India",
+    "raw_type": "Earl Grey - Thé noir et bergamote",
+    "raw_origin": "Inde, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/aiguilles-d-argent-des-papous-bio-100073.html",
+    "name": "Aiguilles d'Argent des Papous bio",
+    "llm_filled": {
+      "country_of_origin": "Papua New Guinea"
+    },
+    "rule_tea_type": "White tea",
+    "rule_country": null,
+    "raw_type": "Thé blanc de Minjigina, Papouasie-Nouvelle-Guinée",
+    "raw_origin": null
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/mate-vert-709.html",
+    "name": "Maté Clássico bio",
+    "llm_filled": {
+      "tea_type": "Herbal tea"
+    },
+    "rule_tea_type": null,
+    "rule_country": null,
+    "raw_type": "Boisson énergisante - Corsé et puissant",
+    "raw_origin": null
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/caramel-424.html",
+    "name": "Caramel",
+    "llm_filled": {
+      "country_of_origin": "India, Sri Lanka, Africa"
+    },
+    "rule_tea_type": "Black tea",
+    "rule_country": "India, Sri Lanka",
+    "raw_type": "Thé noir et caramel",
+    "raw_origin": "Inde, Sri Lanka, Afrique"
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/tie-guan-yin-imperial.html",
+    "name": "Tie Guan Yin Impérial bio",
+    "llm_filled": {
+      "country_of_origin": "China"
+    },
+    "rule_tea_type": "Oolong tea",
+    "rule_country": null,
+    "raw_type": "Oolong bio de Chine",
+    "raw_origin": null
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/tagete-oolong-de-la-famille-ming-100238.html",
+    "name": "Tagète Oolong de la famille Ming",
+    "llm_filled": {
+      "country_of_origin": "Thailand"
+    },
+    "rule_tea_type": "Oolong tea",
+    "rule_country": null,
+    "raw_type": "Oolong de Chiang Rai, ThaÏlande",
+    "raw_origin": null
+  },
+  {
+    "source": "raw_results.json",
+    "url": "https://www.palaisdesthes.com/fr/la-theotheque-les-thes-d-origine-300122.html",
+    "name": "La Théothèque - Les thés d'origine",
+    "llm_filled": {
+      "tea_type": "Other"
+    },
+    "rule_tea_type": null,
+    "rule_country": null,
+    "raw_type": "10 tubes de dégustation de thés d'origine",
+    "raw_origin": null
+  },
+  {
+    "source": "dammann_raw_results.json",
+    "url": "https://www.dammann.fr/fr/carcadet-cassis-menthe-boite-100g.html",
+    "name": "Carcadet cassis menthe, boîte 100g",
+    "llm_filled": {
+      "tea_type": "Herbal tea"
+    },
+    "rule_tea_type": null,
+    "rule_country": null,
+    "raw_type": "Carcadet",
+    "raw_origin": null
+  },
+  {
+    "source": "dammann_raw_results.json",
+    "url": "https://www.dammann.fr/fr/carcadet-passion-framboise-boite-100g.html",
+    "name": "Carcadet Passion Framboise, boîte 100g",
+    "llm_filled": {
+      "tea_type": "Fruit tea"
+    },
+    "rule_tea_type": null,
+    "rule_country": null,
+    "raw_type": "Carcadet",
+    "raw_origin": null
+  }
+]
