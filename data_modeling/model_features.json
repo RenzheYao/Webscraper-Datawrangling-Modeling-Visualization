@@ -1,0 +1,50 @@
+{
+    "input_columns": [
+        "tea_type",
+        "country",
+        "company",
+        "is_bio",
+        "is_grand_cru",
+        "is_imperial",
+        "is_premium",
+        "is_uji",
+        "is_ceylon",
+        "is_darjeeling",
+        "is_sencha",
+        "is_smoky",
+        "is_gift_set",
+        "n_origins",
+        "origin_known",
+        "name"
+    ],
+    "categorical": [
+        "tea_type",
+        "country",
+        "company"
+    ],
+    "numeric": [
+        "is_bio",
+        "is_grand_cru",
+        "is_imperial",
+        "is_premium",
+        "is_uji",
+        "is_ceylon",
+        "is_darjeeling",
+        "is_sencha",
+        "is_smoky",
+        "is_gift_set",
+        "n_origins",
+        "origin_known"
+    ],
+    "output": "EUR per kilo",
+    "model": "Gradient Boosting",
+    "test_score": {
+        "R2 log": 0.7192,
+        "R2 EUR/kg": 0.851,
+        "MAE": 65.1811,
+        "RMSE": 95.9912,
+        "median % error": 0.1349,
+        "mean % error": 0.2253,
+        "RMSLE": 0.2833
+    }
+}
